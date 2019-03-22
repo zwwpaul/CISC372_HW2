@@ -1,0 +1,4 @@
+(a) array-of-length-n-pointer-to-an-unsigned-long-int
+(b) pointer-to-pointer-to-int
+(c) array-of-length-n1-of-array-of-length-n2-of-array-of-length-n3-pointer-to-double
+(d) 10000*sizeof(int)
